@@ -1,6 +1,6 @@
 # KnownText
 
-**A calmer, more organized SMS/MMS app for Android.**
+**A more organized SMS/MMS app for Android.**
 
 KnownText helps you focus on messages from people you know while keeping the rest of your inbox easy to review when you are ready. It is designed to be simple, private, and free of ads.
 
