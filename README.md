@@ -31,7 +31,7 @@ For the complete details, see the [Privacy Policy](privacy-policy.md).
 
 ## Support
 
-Have feedback or need help? Please [open an issue](https://github.com/mikeshen7/KnownText/issues).
+Have feedback or need help? Email [knowntext@gmail.com](mailto:knowntext@gmail.com).
 
 ## Status
 
