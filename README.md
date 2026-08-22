@@ -4,8 +4,6 @@
 
 KnownText helps you focus on messages from people you know while keeping the rest of your inbox easy to review when you are ready. It is designed to be simple, private, and free of ads.
 
-> This repository is the public home for KnownText. The app's source code is not published here.
-
 ## What KnownText does
 
 - Separates conversations into **Contacts** and **Other** inboxes.
